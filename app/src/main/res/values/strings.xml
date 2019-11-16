@@ -2,4 +2,6 @@
     <string name="app_name">Adivinha</string>
     <string name="escolha">Escolha um número entre 0 e 10</string>
     <string name="jogar">Jogar</string>
+    <string name="numeros">Nenhum número</string>
+    <string name="numero_escolhido">Número escolhido:</string>
 </resources>
